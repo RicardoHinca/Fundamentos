@@ -1,6 +1,6 @@
-package fundamentos;
+package fundamentos.desafios;
 
-public class DesarioOperadoresAritmeticos {
+public class DesarioAritmeticos {
 
 	public static void main(String[] args) {
 		
